@@ -6,3 +6,5 @@ Basically, the algorithm puts in a number and checks if it is valid for the row,
 
 # Learning about backtracking here:
 Computerphile: [Sudoku](https://www.youtube.com/watch?v=G_UYXzGuqvM)
+Tech With Tim: [Sudoku part1](https://www.youtube.com/watch?v=eqUwSA0xI-s), [Sudoku part2](https://www.youtube.com/watch?v=lK4N8E6uNr4)
+               
