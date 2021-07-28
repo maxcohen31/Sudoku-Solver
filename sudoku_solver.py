@@ -1,5 +1,5 @@
 # Sudoku Solver using backtracking algorithm
-# Author: Emanuele 
+# Author: Emanuele - maxcohen31
 
 
 grid = [[5,3,0,0,7,0,0,0,0],
